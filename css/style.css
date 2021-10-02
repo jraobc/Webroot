@@ -11,7 +11,7 @@ p {
 }
 
 h1 {
-    color: #ffff88;
+    color: #dddd88;
 }
 
 #left-col {
@@ -19,5 +19,11 @@ h1 {
 }
 
 #right-col {
-    background-color:#ffff88;
+    background-color:#dddd88;
+}
+
+#portrait {
+    padding-top: 12px;
+    height:250px;
+    float:left;
 }
